@@ -1,5 +1,5 @@
 #! /usr/bin/env Rscript
-###script-read csv and write out
+####script-read csv and write out
 library(readr)
 print('please input thispath')
 thispath<-readline(prompt = "the path is: ")
