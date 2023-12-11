@@ -1,5 +1,5 @@
 #! /usr/bin/env Rscript
-####assignment2
+#####assignment2
 #1.使用R中的数据读写，文件路径，for循环语句，读入路径“/assignment_idaccuracy/Aminer”总的所有文件，并将数据合并成为一个data.frame输出。
 rm(list = ls())
 mypath<-'E:/USERS/econ_big_data/data/assignment_idaccuracy/Aminer/'

@@ -1,3 +1,4 @@
+#! /usr/bin/env Rscript
 ###script-read csv and write out
 library(readr)
 print('please input thispath')
